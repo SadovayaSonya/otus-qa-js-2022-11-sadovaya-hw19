@@ -1,0 +1,14 @@
+export const baseUrl = 'https://vk.com/';
+export const messengerUrl = 'https://vk.com/im';
+export const groupsUrl = 'https://vk.com/groups';
+export const editPersonalInfoUrl = 'https://vk.com/edit';
+export const stickersUrl = 'https://vk.com/stickers';
+export const friendsUrl = 'https://vk.com/friends';
+export const bookmarksUrl = 'https://vk.com/bookmarks';
+export const textForPost = 'Test post';
+export const nameGroupHabr = 'Хабр';
+export const nameChat = 'Тестовый_чат';
+export const fioUser = 'Sabrina Franklin';
+export const infoAboutUser = 'Всем привет! Я новый пользователь!';
+export const hometown = 'Москва';
+export const textMessage = 'Тестовое сообщение';

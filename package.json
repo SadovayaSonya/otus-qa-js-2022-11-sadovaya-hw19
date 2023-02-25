@@ -1,0 +1,14 @@
+{
+  "name": "otus-qa-js-2022-11-sadovaya-hw19",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "testcafe ./tests/**/*.test.js"
+  },
+  "author": "SadovayaSonya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "testcafe": "^2.3.1"
+  }
+}
